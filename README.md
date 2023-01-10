@@ -7,8 +7,8 @@ Before running this demo, you need to configue your Client ID, Client secrets an
 1. go mod tidy
 2. go run main.go
 
-If you have anyquestions you can read this Tutorials：
-
+If you have any questions you can read this Tutorials：
+https://juejin.cn/post/7186867313998561339
 
 
 #### Reference:
